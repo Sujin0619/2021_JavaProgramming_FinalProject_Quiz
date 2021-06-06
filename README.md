@@ -2,7 +2,8 @@
 
 ### 1. Start Page
 #### Main.java를 실행하면 첫 페이지가 나온다. username을 입력하고 category를 선택한 후, 시작 버튼을 누르면 퀴즈가 시작된다. 이때 게임 유저가 입력한 정보는 Quiz.txt 파일에 입력된다. 디자인의 경우, 배경을 따로 만들어서 패널에 넣었으며 그 위에 투명 TextField와 ComboBox, Button을 넣었다. 
-![image](https://user-images.githubusercontent.com/80879131/120931973-dfacd100-c72e-11eb-8690-19d3ae5bd587.png)
+
+![image](https://user-images.githubusercontent.com/80879131/120932139-9b6e0080-c72f-11eb-86a9-dc15402f3baf.png)
 ![image](https://user-images.githubusercontent.com/80879131/120931978-e63b4880-c72e-11eb-852a-55a356a0e01d.png)
 
 
