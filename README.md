@@ -15,9 +15,12 @@
 ### 2. Game Page
 ### 실제 게임이 진행되는 페이지다. 각 카테고리는 10문제로 구성된다. 사각형의 보기 번호를 눌렀을 때, 정답이라면 총점은 +10이 되고 틀리면 -10이 된다. 만약 0점 미만이 된다면 바로 게임은 끝난다. 실제 정답이 어떤 것인지 표시하기 위해 게임 유저가 정답을 고르는 순간, 실제 정답 보기는 빨간색으로 표시된다. 이때 게임 유저의 게임 진행 상황은 모두 Quiz.txt 파일에 입력된다.
 ![image](https://user-images.githubusercontent.com/80879131/120931994-f521fb00-c72e-11eb-87a2-402fc3310e96.png)
+
+
 ![image](https://user-images.githubusercontent.com/80879131/120931996-f6ebbe80-c72e-11eb-9ecf-2c7a9d2ec7c1.png)
-![image](https://user-images.githubusercontent.com/80879131/120931998-f9e6af00-c72e-11eb-8f29-6abbe4d69ac7.png)
 ![image](https://user-images.githubusercontent.com/80879131/120932006-03701700-c72f-11eb-9fd6-4747f9b2f92f.png)
+
+![image](https://user-images.githubusercontent.com/80879131/120931998-f9e6af00-c72e-11eb-8f29-6abbe4d69ac7.png)
 ![image](https://user-images.githubusercontent.com/80879131/120932008-0539da80-c72f-11eb-9fe2-141af0fc5355.png)
 
 
